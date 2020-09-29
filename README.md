@@ -1,5 +1,5 @@
 # code-academy-parcel-service
-Application demonstrating Event Driven Architecture(EDA)
+Application demonstrating Event Driven Architecture(EDA) using JS/ Node.js
 
 ## Business Requirements
 As a business, our primary goal is to increase the visibility on the state of packages in the delivery process.
